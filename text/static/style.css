@@ -1,0 +1,42 @@
+.display-4{
+    font-size: 65px;
+    font-weight: 370;
+}
+.lead{
+    font-size: 25px;
+}
+.container{
+    font-size: 25px;
+}
+.btn-primary{
+    padding: 10px 20px 10 20px;
+    font-size: 25px;
+
+}
+.containers
+{
+    display: flex;
+    justify-content: space-around;
+}
+h5{
+    font-size: 40px;
+}
+p{
+    font-size: 23px;
+}
+
+.card-title{
+    background-color: rgb(128,128,128,0.2);
+    padding: 20px;
+}
+.btn-primary
+{
+position:relative;
+left:0;
+color: black;  
+background-color: rgb(128,128,128,0.2);
+border: 1px black;
+}
+.btn-primary:hover{
+    background-color: rgb(165, 162, 162);
+}
